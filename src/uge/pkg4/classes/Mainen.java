@@ -17,6 +17,8 @@ public class Mainen {
         flyveMaskine Boing2 = new flyveMaskine ();          // " new flyveMaskine " er et nyt objekt, og 
         
         // ERDER NOGEN GIBHUB RETTELSE?!?!
+        
+        // VI PRØVER IGEN
     }
 
     
