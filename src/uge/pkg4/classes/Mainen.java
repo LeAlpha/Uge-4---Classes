@@ -15,6 +15,8 @@ public class Mainen {
         
         flyveMaskine Boing = new flyveMaskine();            // laver en ny template af "Flyvemaskine" ved navn boing
         flyveMaskine Boing2 = new flyveMaskine ();          // " new flyveMaskine " er et nyt objekt, og 
+        
+        // ERDER NOGEN GIBHUB RETTELSE?!?!
     }
 
     
